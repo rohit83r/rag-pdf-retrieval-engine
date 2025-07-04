@@ -1,0 +1,14 @@
+pymupdf
+rapidocr-onnxruntime
+pydantic
+python-dotenv
+langchain
+langchain-groq
+langchain-core
+langsmith
+langchain-community
+langchain_huggingface
+sentence-transformers
+faiss-cpu
+langchain_google_genai
+langchain-milvus
